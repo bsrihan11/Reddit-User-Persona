@@ -1,0 +1,119 @@
+{
+  "username": "kojied",
+  "estimated_age_range": {
+    "value": "25-35",
+    "citations": [
+      "https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/",
+      "https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/"
+    ]
+  },
+  "gender": {
+    "value": "Male",
+    "citations": [
+      "https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/"
+    ]
+  },
+  "location": {
+    "value": "New York City",
+    "citations": [
+      "https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/",
+      "https://reddit.com/r/AskNYC/comments/1iypf3t/just_laid_off_what_daytime_nyc_stuff_should_i_do/"
+    ]
+  },
+  "occupation_or_education": {
+    "value": "iOS Developer, Interest in H1B Visa",
+    "citations": [
+      "https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/",
+      "https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/"
+    ]
+  },
+  "personality": {
+    "value": {
+      "key_tones": [
+        "Analytical",
+        "Helpful",
+        "Critical",
+        "Tech-savvy",
+        "Curious"
+      ],
+      "energy": "Introvert",
+      "identity": "Assertive",
+      "mind": "Intuitive",
+      "tactics": "Prospecting",
+      "nature": "Thinking"
+    },
+    "citations": [
+      "https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/",
+      "https://reddit.com/r/VisionPro/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/",
+      "https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/"
+    ]
+  },
+  "hobbies_and_interests": {
+    "value": [
+      "Technology",
+      "Virtual Reality",
+      "Gaming",
+      "Travel",
+      "Food",
+      "Fitness",
+      "Environmental Activism"
+    ],
+    "citations": [
+      "https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/",
+      "https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/",
+      "https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/"
+    ]
+  },
+  "behavior_and_habits": {
+    "value": [
+      {
+        "behavior": "Early Adopter of Technology",
+        "description": "Actively engages with new technology and gadgets, often providing feedback and suggestions."
+      },
+      {
+        "behavior": "Health-conscious",
+        "description": "Interested in fitness and maintaining a healthy lifestyle."
+      },
+      {
+        "behavior": "Environmentally Conscious",
+        "description": "Shows interest in environmental issues and sustainable living."
+      },
+      {
+        "behavior": "Critical Thinker",
+        "description": "Often provides analytical and critical feedback on various topics."
+      },
+      {
+        "behavior": "Social Commentator",
+        "description": "Engages in discussions about social and cultural issues, often providing a critical perspective."
+      }
+    ],
+    "citations": [
+      "https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/",
+      "https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/",
+      "https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/"
+    ]
+  },
+  "most_active_subreddits": {
+    "value": [
+      "VisionPro",
+      "AskReddit",
+      "FoodNYC",
+      "GenZ",
+      "ClimateOffensive"
+    ],
+    "citations": [
+      "https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/",
+      "https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/",
+      "https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/",
+      "https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/",
+      "https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/"
+    ]
+  },
+  "quote_or_signature_style": {
+    "value": "Curious and analytical, always looking for the next big thing in technology and sustainability.",
+    "citations": [
+      "https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/",
+      "https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/"
+    ]
+  }
+}

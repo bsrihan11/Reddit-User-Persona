@@ -1,0 +1,97 @@
+{
+  "username": "Hungry-Move-6603",
+  "estimated_age_range": {
+    "value": "25-35",
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/"
+    ]
+  },
+  "gender": {
+    "value": "Male",
+    "citations": [
+      "https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/"
+    ]
+  },
+  "location": {
+    "value": "Lucknow, Uttar Pradesh, India",
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/",
+      "https://reddit.com/r/lucknow/comments/1lx50qm/productive_weekend_activities_in_lko/"
+    ]
+  },
+  "occupation_or_education": {
+    "value": "Business",
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/"
+    ]
+  },
+  "personality": {
+    "value": {
+      "key_tones": [
+        "Observant",
+        "Analytical",
+        "Sarcastic"
+      ],
+      "energy": "Extrovert",
+      "identity": "Assertive",
+      "mind": "Observant",
+      "tactics": "Judging",
+      "nature": "Thinking"
+    },
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/",
+      "https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/"
+    ]
+  },
+  "hobbies_and_interests": {
+    "value": [
+      "Reading",
+      "Healthy Eating",
+      "Cooking",
+      "Local Culture Observation"
+    ],
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/",
+      "https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/"
+    ]
+  },
+  "behavior_and_habits": {
+    "value": [
+      {
+        "behavior": "Critical of Local Practices",
+        "description": "Often comments on local practices and behaviors, such as the prevalence of stickers on cars in Lucknow."
+      },
+      {
+        "behavior": "Health-Conscious",
+        "description": "Prefers healthy and quick meals, and is critical of low-quality food services."
+      },
+      {
+        "behavior": "Engages in Local Community Discussions",
+        "description": "Actively participates in discussions about local community issues and activities."
+      }
+    ],
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/",
+      "https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/"
+    ]
+  },
+  "most_active_subreddits": {
+    "value": [
+      "lucknow",
+      "nagpur",
+      "IndiaUnfilter",
+      "indiasocial"
+    ],
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lzuq0r/reading_cafe_reader_club/",
+      "https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/"
+    ]
+  },
+  "quote_or_signature_style": {
+    "value": "Observant and critical, with a touch of sarcasm.",
+    "citations": [
+      "https://reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/",
+      "https://reddit.com/r/IndiaUnfilter/comments/1lw6ijt/people_are_smoking_hookah_in_the_middle_of_the/n2vkdpb/"
+    ]
+  }
+}
