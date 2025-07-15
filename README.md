@@ -1,4 +1,4 @@
-# Reddit User Persona Generator 🧠🔍
+# Reddit User Persona Generator
 
 This project uses **LangChain** and **Pydantic** to generate detailed Reddit user personas based on public data scraped from their posts and comments. The output is structured in a well-defined JSON schema (saved as a `.txt` file), capturing various facets of a user's online presence.
 
