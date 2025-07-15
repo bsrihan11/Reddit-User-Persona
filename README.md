@@ -14,7 +14,7 @@ This project uses **LangChain** and **Pydantic** to generate detailed Reddit use
 - **Behavioral Analysis**: Identifies and summarizes the user's habits and behavior patterns from their online activity.
 - **Location & Demographics**: Estimates age, gender, and location through contextual clues and citations.
 - **Hobbies & Subreddit Mapping**: Lists the user's interests and the subreddits where they are most active.
-- **Citation-Aware**: Each field is backed by direct Reddit URLs as evidence for transparency and traceability.
+- **Citations**: Each field is backed by direct Reddit URLs as evidence for transparency and traceability.
 - **Quote or Motto Extraction**: Captures a short, signature phrase that reflects the user's online persona or tone.
 
 ---
